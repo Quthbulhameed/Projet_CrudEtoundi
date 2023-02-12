@@ -17,6 +17,5 @@
 
 
 ## Prérequis
-- Serveur web (Apache, Nginx, etc.)
 - PHP
 - Base de données MySQL
